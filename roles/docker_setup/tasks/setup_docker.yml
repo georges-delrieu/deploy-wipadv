@@ -9,7 +9,6 @@
     name: "{{ item }}"
     state: "present"
   loop:
-    - cgroup-bin
     - cgroup-tools
     - cgroupfs-mount
     - libcgroup-dev

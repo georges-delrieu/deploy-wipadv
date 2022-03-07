@@ -38,3 +38,4 @@
     - xz-utils
     - zsh
     - zstd
+    - gnupg
